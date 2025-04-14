@@ -11,3 +11,4 @@ Customer Profiling - Credit Card Customer Data - This different dataset of Credi
 
 Apply k-means clustering without the use of in-built libraries like scikit-learn to segment customers based on their transaction behaviour and profiles and also determine the optimal number of clusters using methods like the Elbow method or Silhouette score.
 Build a linear regression model to predict the transaction amount (Avg. Credit limit)  for a potential customer based on the given features. Identify the key features to be used.
+[Link Text](https://drive.google.com/file/d/1_oyoeb5ca4HUVMbTRsEdQbXR4_Yc2JH8/view?usp=drive_link)
